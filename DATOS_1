@@ -1,14 +1,15 @@
-nombre, nota
-luis, 2
-mario, 4
-fernando, 6
-eduardo, 9
-fran, 7
-felipe, 1
-ramon, 7
-Teodoro, 8
-antonio, 9
-manuel, 6
-rigoberto, 4
-roberto, 6
-cesar, 8
+nombre, nota_mates, nota_ingles
+luis, 2, 7
+mario, 4, 8
+fernando, 6, 9
+eduardo, 9, 8
+fran, 7, 4
+felipe, 1, 1
+ramon, 7, 5
+Teodoro, 8, 8
+antonio, 9, 6
+manuel, 6, 7
+rigoberto, 4, 2
+roberto, 6, 2
+cesar, 8, 1
+alberto. 3, 3
